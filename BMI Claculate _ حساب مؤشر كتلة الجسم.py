@@ -18,4 +18,5 @@ elif BMI <= 39.9:
     print("You are obese.")
 else:
     print("You are severely obese.")
+#Delete the comments ("All the sentece start with # tag")
 # A7 Code
