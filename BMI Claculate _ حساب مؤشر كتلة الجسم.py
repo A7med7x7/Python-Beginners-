@@ -1,6 +1,6 @@
 #BMI Calculate حساب كتلة قياس كتلة الجسم
 # اول سطرين عبارة عن انه اخد مني بينات الطول بدون ما يطبعها (Input
-height = float(input("Enter your height in cm: "))
+height = int(input("Enter your height in cm: "))
 weight = float(input("Enter your weight in kg: "))
 # BMI Equation معادلة ال مؤشر كتلة الجسم
 BMI = weight / (height/100)**2
